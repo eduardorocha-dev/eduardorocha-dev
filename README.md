@@ -26,7 +26,9 @@ FastAPI microservice that verifies, deduplicates, and reliably delivers webhook 
 ### Skills
 
 **Backend:** `Python` · `FastAPI` · `SQLAlchemy` · `Pydantic` · `pytest`
+
 **Data & Infra:** `PostgreSQL` · `Redis` · `Celery` · `Docker` · `Linux`
+
 **Embedded & ML:** `C` · `C++` · `TensorFlow`
 
 ### Socials
